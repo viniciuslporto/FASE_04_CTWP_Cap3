@@ -18,7 +18,7 @@
 
 ## 👩‍🏫 Professores:
 ### Tutor(a) 
-- Lucas Gomes Moreira
+- Sabrina Otoni
 ### Coordenador(a)
 - André Godoi Chiovato
 
