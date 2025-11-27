@@ -10,17 +10,17 @@
 # Classificação de Variedades de Grãos de Trigo
 
 ## 👨‍🎓 Integrantes: 
-- <a href="https://www.linkedin.com/company/inova-fusca">Vinicius de Santana Gama</a> - RM566672
-- <a href="https://www.linkedin.com/company/inova-fusca">Pedro Carvalho Rocha Lima</a> - RM567330
-- <a href="https://www.linkedin.com/company/inova-fusca">Vinicius Lisboa Porto</a> - RM561406
-- <a href="https://www.linkedin.com/company/inova-fusca">Marlon Paulino Marinho</a> - RM566793
-- <a href="https://www.linkedin.com/company/inova-fusca">Danilo Marques Dantas</a> - RM567583
+-Vinicius de Santana Gama - RM566672
+-Pedro Carvalho Rocha Lima - RM567330
+- Vinicius Lisboa Porto - RM561406
+- Marlon Paulino Marinho - RM566793
+- Danilo Marques Dantas - RM567583
 
 ## 👩‍🏫 Professores:
 ### Tutor(a) 
-- <a href="https://www.linkedin.com/company/inova-fusca">Lucas Gomes Moreira</a>
+- Lucas Gomes Moreira
 ### Coordenador(a)
-- <a href="https://www.linkedin.com/company/inova-fusca">André Godoi Chiovato</a>
+- André Godoi Chiovato
 
 ## 📜 Descrição
 
