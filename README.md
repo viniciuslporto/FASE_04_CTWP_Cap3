@@ -10,8 +10,8 @@
 # Classificação de Variedades de Grãos de Trigo
 
 ## 👨‍🎓 Integrantes: 
--Vinicius de Santana Gama - RM566672
--Pedro Carvalho Rocha Lima - RM567330
+- Vinicius de Santana Gama - RM566672
+- Pedro Carvalho Rocha Lima - RM567330
 - Vinicius Lisboa Porto - RM561406
 - Marlon Paulino Marinho - RM566793
 - Danilo Marques Dantas - RM567583
