@@ -72,7 +72,7 @@ FASE_04_CTWP_Cap3/
 │   └── seeds_dataset.txt
 │
 ├── notebooks/                   # Notebooks Jupyter
-│   └── seeds_classification_v2.ipynb
+│   └── seeds_classification-v2.ipynb
 │
 ├── docs/                        # Documentação adicional
 │   └── relatorio.md
@@ -95,7 +95,7 @@ pip install -r requirements.txt
 ### Execução
 
 #### Opção 1: Google Colab (Recomendado)
-1. Abra o arquivo `notebooks/seeds_classification_v2.ipynb` no Google Colab
+1. Abra o arquivo `notebooks/seeds_classification-v2.ipynb` no Google Colab
 2. Faça upload do arquivo `data/seeds_dataset.txt`
 3. Execute todas as células: **Ambiente de execução** → **Executar tudo**
 
@@ -103,7 +103,7 @@ pip install -r requirements.txt
 1. Clone o repositório
 2. Navegue até a pasta do projeto
 3. Execute: `jupyter notebook`
-4. Abra o arquivo `notebooks/seeds_classification_v2.ipynb`
+4. Abra o arquivo `notebooks/seeds_classification-v2.ipynb`
 5. Execute todas as células
 
 ## 🗃 Histórico de lançamentos
